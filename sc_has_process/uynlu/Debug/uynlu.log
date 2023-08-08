@@ -1,0 +1,4 @@
+﻿  uynlu.cpp
+  Unknown compiler version - please run the configure tests and report the results
+D:\WEB\uynlu\uynlu\uynlu.cpp(49,4): warning C4102: 'std': unreferenced label
+  uynlu.vcxproj -> D:\WEB\uynlu\Debug\uynlu.exe
